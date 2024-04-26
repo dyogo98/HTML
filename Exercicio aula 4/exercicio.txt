@@ -1,0 +1,34 @@
+
+1. Quais as semelhanças entre o div e o span? E as diferenças de uso entre
+eles?
+R.: Semelhança que eles servem para organizar e selecionar uma parte do HTML, A diferença que o SPAN serve apenas para o Texto e o DIV organizar os codigos. 
+
+2. Como podemos ver o HTML da página usando o recurso “ferramentas do
+desenvolvedor”?
+R.:Ao clicar com o botar direito do mause em cima da pagina do HTML.
+
+3. O que é a URL? Em quais partes ela se divide?
+R.: Abreviação de Uniform Resource Locator,  um URL é a localização de um site, página ou arquivo específico na Internet. Ela se divide em 3 partes, protocolo, domínio do site e caminho
+
+4. Ao submeter um form, o que significa o “método”?
+R.: Significa o metodo que será enviado os dados. 
+
+5. Qual método permite ver na barra de endereço os valores dos campos
+enviados?
+R.: Value
+
+6. Quais os símbolos usados e a forma de separar os campos e valores enviados
+pelo formulário?
+R.: <hr/> e <br/>
+
+7. Qual atributo deve ser modificado para o formulário não autocompletar os
+campos?
+R.:
+
+8. O que é preciso fazer para que os campos de rádio sejam considerados “do
+mesmo grupo”?
+R.: Colocar na mesmo <div>
+
+9. Qual atributo de um campo exige que ele seja preenchido antes do envio do
+formulário?
+R.: 
